@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "list all files (even ones with names beginning with a period character which are normally hidden) in the working directory in long format" > ls_cwd_content
+echo "list all files even ones with names beginning with a period character which are normally hidden in the working directory in long format" >> ls_cwd_content
