@@ -1,2 +1,2 @@
-#!/bin/basn
-grep -c "bin" /etc/passwd
+#!/bin/bash
+grep bin | wc -l /etc/passwd
