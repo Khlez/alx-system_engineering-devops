@@ -1,2 +1,2 @@
 #!/bin/bash
-$((BINARY=DECIMAL))
+$((BINARY="base 2" base 10))
