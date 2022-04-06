@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NUM="3.32"
+echo $((2.43 NUM))
